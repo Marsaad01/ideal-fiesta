@@ -1,0 +1,117 @@
+
+.sec0{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../images/pylyp-sukhenko-y-XZf_TNRms-unsplash.jpg);
+    height: 550px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec0 h2{
+    color: white;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+}
+.head{
+    padding-top: 150px;
+}
+
+
+.sec16{
+    padding:  50px 200px;
+    background-color: rgb(235, 235, 235);
+}
+
+.map{
+    width: 100%;
+    height: 400px;
+    border-radius: 20px;
+}
+
+
+
+
+
+.sec17{
+    padding: 0px 200px;
+    background-color: rgb(235, 235, 235);
+}
+.sec17 h6{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.form3 input{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    border: solid 1px gray;
+    margin-bottom: 0px;
+}
+.form3Col2{
+    margin: 30px;
+}
+.form3 textarea{
+    width: 815px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    border: solid 1px gray;
+    resize: vertical ;
+}
+
+.form3Row1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form3Row2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+.sec18{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+    background-color: rgb(235, 235, 235);
+}
+
+.sec18Col1{
+    flex-basis: 32%;
+    padding-left: 50px;
+}
+.sec18Col2{
+    flex-basis: 32%;
+    padding-left: 50px;
+}
+.sec18Col3{
+    flex-basis: 32%;
+    padding-left: 50px;
+}
+
+.sec18 h1{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.sec18 h2{
+    font-size: 15px;
+    padding: 10px 0px 0px 40px;
+    color: gray;
+}
+.sec18 i{
+    padding-right: 20px;
+    font-size: 13px
+}
